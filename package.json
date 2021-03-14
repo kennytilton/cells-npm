@@ -1,0 +1,25 @@
+{
+  "name": "cells",
+  "version": "3.0.0",
+  "description": "Transparent reactive dataflow for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennytilton/cells-npm.git"
+  },
+  "keywords": [
+    "reactive",
+    "dataflow",
+    "TFRP",
+    "FRP"
+  ],
+  "author": "Kenneth Tilton <kentilton@gmail.com> (https://github.com/kennytilton)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennytilton/cells-npm/issues"
+  },
+  "homepage": "https://github.com/kennytilton/cells-npm#readme"
+}
